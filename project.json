@@ -1,14 +1,14 @@
 {
   "name": "Progektor_Servo",
   "about": "Очень нужно",
-  "version": "1.0",
+  "version": "2.0",
   "notes": "Дополнения",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/eu1abg/Smart_Fen/main/bin/smart_FEN_VITRUINO_WIFI.ino.bin",
+          "path": "https://raw.githubusercontent.com/eu1abg/Smart_Fen/main/bin/Progektor_Servo_VIRTUINO.ino",
           "offset": 0
         }
       ]
