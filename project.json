@@ -2,7 +2,7 @@
   "name": "Progektor_Servo",
   "about": "Очень нужно",
   "version": "2.1",
-  "notes": "Дополнения",
+  "notes": "2/1",
   "builds": [
     {
       "chipFamily": "ESP32",
